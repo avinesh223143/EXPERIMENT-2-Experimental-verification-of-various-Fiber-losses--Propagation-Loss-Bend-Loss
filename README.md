@@ -32,7 +32,8 @@ V1/V2 = e [ -a (L1+L2 ) ]
 
 | Fiber Length | Input Amplitude (V) | Output Amplitude (V) |
 |--------------|---------------------|------------------------|
-|              |                     |                        |
+|        1     |       5             |           10           |
+|        0.5   |       5             |           14           |
 
 ### Bending Loss
 
