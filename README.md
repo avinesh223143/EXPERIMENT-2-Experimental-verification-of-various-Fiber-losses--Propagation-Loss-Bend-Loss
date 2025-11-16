@@ -21,7 +21,10 @@ To measure propagation and bending losses for two wavelengths in plastic fiber.
 - Measure output voltages for 1m and 3m fibers  
 - Calculate attenuation \( a \) using:  
 V1/V2 = e [ -a (L1+L2 ) ] 
-- Bend fiber and record output vs diameter  
+- Bend fiber and record output vs diameter
+
+- ![Uploading image.png…]()
+ 
 
 **Tabulation:**
 
