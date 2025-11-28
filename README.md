@@ -66,7 +66,7 @@ a = nepers/ Meter
 L1 = Fiber Length for V1 ; L2 = Fiber Length for V2 This a is for peak wavelength of 950nm
 - Compare the two a values.
 
-MEASUREMENT OF BENDING LOSSES:
+### MEASUREMENT OF BENDING LOSSES:
 - Remove fiber cable from SFH450V (950nm) & SFH350V and insert one meter fiber between SFH756V (660nm) & SFH350V.
 - Bend the Fiber in a loop. Measure the amplitude of the received signal.
 - Keep reducing the diameter of bend to about 2 cm & take corresponding out voltage readings. (Do not reduce loop diameter less than 1 cm).
@@ -93,6 +93,14 @@ MEASUREMENT OF BENDING LOSSES:
 
 
 ## Result:
-Attenuation and bending loss characteristics verified.
+The experiment successfully verified the losses in a fiber-optic link:
+
+The propagation (transmission) loss was measured over different lengths of the fiber for two wavelengths (660 nm & 950 nm) and found to increase with length, confirming the expected attenuation behaviour.
+
+The bending loss was observed by varying the loop diameter of the fiber and measuring output amplitude — as the bend diameter decreased, the output dropped, verifying increased bending loss.
+
+Hence, the aim of measuring both propagation loss and bending loss characteristics of the fiber was achieved.
+
+
 
 ---
